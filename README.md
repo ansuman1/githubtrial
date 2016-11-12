@@ -1,2 +1,2 @@
 # githubtrial
-trial
+trial on github checkout
